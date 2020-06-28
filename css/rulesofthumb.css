@@ -1,0 +1,286 @@
+
+
+.bp1-rulesofthumb {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 760px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-rulesofthumb .bp1-rulesofthumb1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp1-rulesofthumb .bp1-screenshot20200613at124057pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 106px;
+  width               : 306px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-rulesofthumb .bp1-screenshot20200613at124057pm .bp1-screenshot20200613at124057pm1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 106px;
+  width               : 306px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-rulesofthumb .bp1-a1contactdoctorim {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 248px;
+  height              : auto;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-rulesofthumb .bp1-a2allfamilymember {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 426px;
+  height              : auto;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-rulesofthumb .bp1-a3anythingthatthe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 606px;
+  height              : auto;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-rulesofthumb .bp1-screenshot20200613at124353pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 312px;
+  height              : 106px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-rulesofthumb .bp1-screenshot20200613at124531pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 493px;
+  height              : 106px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-rulesofthumb .bp1-rectanglecopy {
+  background-color    : rgba(144, 122, 114, 1.0);
+  top                 : 692px;
+  height              : 41px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 243px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-rulesofthumb .bp1-next {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 704px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(239, 232, 222, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

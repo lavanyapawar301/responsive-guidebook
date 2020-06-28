@@ -1,0 +1,582 @@
+
+
+.symptomsmanagement {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 1892px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.symptomsmanagement .symptomsmanagement1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.symptomsmanagement .rectanglecopy {
+  background-color    : rgba(144, 122, 114, 1.0);
+  top                 : 1817px;
+  height              : 41px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 246px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .next {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1829px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 271px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(239, 232, 222, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.symptomsmanagement .a15copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 132px;
+  height              : 89px;
+  width               : 348px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .a151copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 272px;
+  height              : 89px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .restasmuchasposscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 226px;
+  height              : auto;
+  width               : 333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .takeplentyoffluidcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 371px;
+  height              : auto;
+  width               : 332px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .a152copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 434px;
+  height              : 96px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .ifapatienthasafcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 534px;
+  height              : auto;
+  width               : 332px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .a161copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 636px;
+  height              : 57px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .ifpatienthaspersicopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 697px;
+  height              : auto;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .whattodoforothercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 610px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.symptomsmanagement .a162copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 776px;
+  height              : 54px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .ifpatientu2019sthroatcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 839px;
+  height              : auto;
+  width               : 322px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .a163copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 952px;
+  height              : 56px;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .a163copy .a163copy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 56px;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .ifpatientu2019stemperacopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1016px;
+  height              : auto;
+  width               : 333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .a16copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1096px;
+  height              : 52px;
+  width               : 331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .a16copy .a16copy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .ifpatientfeelsnaucopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1164px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .howtoidentifyiticopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1268px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .a172copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1325px;
+  height              : 77px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .worseningofsymptomcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1228px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.symptomsmanagement .twoormoretemperatcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1402px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .bloodysputumorinccopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1403px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .a171copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1490px;
+  height              : 80px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .increasingdifficultcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1580px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .stiffneckpreventincopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1577px;
+  height              : auto;
+  width               : 137px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .a17copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1644px;
+  height              : 75px;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.symptomsmanagement .patientsbreathspercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1730px;
+  height              : auto;
+  width               : 137px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.symptomsmanagement .ifpulseoximeterpcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1730px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

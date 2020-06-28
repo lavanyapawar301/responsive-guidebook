@@ -1,0 +1,2599 @@
+
+
+.bp1-index {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 13446px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-index .bp1-homecareforcovid1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 810px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-whoqualifiesforho {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 548px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 612px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-whyhomecare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 751px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 680px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-mostcommonsymptoms {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1079px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 582px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-whattodoifnotsu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1709px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 631px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-whentogettested {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1911px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 668px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-whoqualifiesforho1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2113px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 615px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-whatishomecarecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 160px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-whoqualifiesforho2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-whyhomecare1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 228px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-mostcommonsymptoms1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-whattodoifnotsu1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 296px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-rulesofthumb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 331px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-gettingprepared {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 364px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-washinghands {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 398px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-usingmasks {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 432px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-cleaningthehouse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 466px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-foodandutensils {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 500px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-clothingandpersona {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 533px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-symptomsmanagement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 567px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-stayingpositiveand {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 601px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-isthepatientcured {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 635px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-a2020covidhomecare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 715px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 46px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(120, 45, 21, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.bp1-index .bp1-contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 692px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(120, 45, 21, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-index .bp1-bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 715px;
+  height              : 14px;
+  width               : 14px;
+  position            : fixed;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-homecareguidemayb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : auto;
+  width               : 473px;
+  position            : absolute;
+  margin              : 0;
+  left                : 714px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-homecareenablesyoucopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : auto;
+  width               : 637px;
+  position            : absolute;
+  margin              : 0;
+  left                : 450px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-ifyouhavejustbeg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1754px;
+  height              : auto;
+  width               : 637px;
+  position            : absolute;
+  margin              : 0;
+  left                : 464px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-ifyoursymptomsper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1956px;
+  height              : auto;
+  width               : 637px;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-itissaferahospit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 806px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 381px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.bp1-index .bp1-itissaferahospit .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-itissaferahospit .bp1-span2 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-fever {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1141px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 612px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-drycough {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1141px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1034px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-runningnose {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1267px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1034px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-dizziness {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1394px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1034px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-vomiting {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1521px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1034px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-tiredness {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1267px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 612px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-sorethroat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1393px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 612px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-diarrhoea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1519px;
+  height              : 118px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 612px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-itgivesquickeracc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 806px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 653px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.bp1-index .bp1-itgivesquickeracc .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-itgivesquickeracc .bp1-span2 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-itistherightthin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 806px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 925px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.bp1-index .bp1-itistherightthin .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-itistherightthin .bp1-span2 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-screenshot20200613at13844pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : 314px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 412px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : 12950px;
+  box-sizing          : border-box;
+  width               : 864px;
+  position            : absolute;
+  margin              : 0;
+  left                : 351px;
+  border-radius       : 20px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(239, 232, 222, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1134px;
+  height              : 518px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a02 .bp1-a022 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 518px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a021 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1134px;
+  height              : 518px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 382px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a021 .bp1-a022 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 518px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-aqualifiedhealthca {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2184px;
+  height              : auto;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 376px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-aqualifiedhealthca .bp1-span1 {
+  
+}
+.bp1-index .bp1-aqualifiedhealthca .bp1-span2 {
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-aqualifiedhealthca .bp1-span3 {
+  
+}
+.bp1-index .bp1-aqualifiedhealthca .bp1-span4 {
+  text-align          : left;
+}
+.bp1-index .bp1-aqualifiedhealthca .bp1-span5 {
+  
+}
+.bp1-index .bp1-a5coughwithorwi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2184px;
+  height              : auto;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 808px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp1-index .bp1-a5coughwithorwi .bp1-span1 {
+  
+}
+.bp1-index .bp1-a5coughwithorwi .bp1-span2 {
+  
+}
+.bp1-index .bp1-a5coughwithorwi .bp1-span3 {
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-a5coughwithorwi .bp1-span4 {
+  
+}
+.bp1-index .bp1-rulesofthumbcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2567px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 706px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-screenshot20200613at124057pmcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2616px;
+  height              : 136px;
+  width               : 394px;
+  position            : absolute;
+  margin              : 0;
+  left                : 376px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-screenshot20200613at124353pmcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2617px;
+  height              : 134px;
+  width               : 394px;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-screenshot20200613at124531pmcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2855px;
+  height              : 134px;
+  width               : 394px;
+  position            : absolute;
+  margin              : 0;
+  left                : 376px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-screenshot20200613at125627pmcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2859px;
+  height              : 130px;
+  width               : 386px;
+  position            : absolute;
+  margin              : 0;
+  left                : 808px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a1contactdoctorim {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2765px;
+  height              : auto;
+  width               : 384px;
+  position            : absolute;
+  margin              : 0;
+  left                : 388px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a3anythingthatthe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2998px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 388px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a4washhandsfreque {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2998px;
+  height              : auto;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 812px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a2allfamilymember {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2765px;
+  height              : auto;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 808px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-gettingpreparedcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3117px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 691px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-washinghands1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5604px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 698px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-usingmasks1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6350px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 708px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-cleaningthehouse1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6988px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 669px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-handlingutensilsan {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7818px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 604px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-washingclothes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8364px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 684px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-symptommanagement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8942px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 649px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-stayingpositiveand1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11487px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 619px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-isthepatientcured1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12181px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 669px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-clickheretodownlo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13048px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 536px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.bp1-index .bp1-a10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5653px;
+  height              : 186px;
+  width               : 783px;
+  position            : absolute;
+  margin              : 0;
+  left                : 419px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-img2807 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3166px;
+  height              : 240px;
+  width               : 728px;
+  position            : absolute;
+  margin              : 0;
+  left                : 419px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a1selfisolationne {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3424px;
+  height              : auto;
+  width               : 716px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp1-index .bp1-a1selfisolationne .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-a1selfisolationne .bp1-span2 {
+  font-size           : 18.0px;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a1selfisolationne .bp1-span3 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a2decideonacareg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3937px;
+  height              : auto;
+  width               : 716px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp1-index .bp1-a2decideonacareg .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-a2decideonacareg .bp1-span2 {
+  font-size           : 18.0px;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a2decideonacareg .bp1-span3 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a3setupyourhomep {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4383px;
+  height              : auto;
+  width               : 716px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp1-index .bp1-a3setupyourhomep .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-a3setupyourhomep .bp1-span2 {
+  font-size           : 18.0px;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a3setupyourhomep .bp1-span3 {
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a3setupyourhomep .bp1-span4 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a3setupyourhomep .bp1-span5 {
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a3setupyourhomep .bp1-span6 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a4highriskfamily {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5088px;
+  height              : auto;
+  width               : 725px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp1-index .bp1-a4highriskfamily .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-a4highriskfamily .bp1-span2 {
+  font-size           : 18.0px;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a4highriskfamily .bp1-span3 {
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a4highriskfamily .bp1-span4 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtowashyourhan {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5851px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp1-index .bp1-howtowashyourhan .bp1-span1 {
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-howtowashyourhan .bp1-span2 {
+  font-size           : 18.0px;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtowashyourhan .bp1-span3 {
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtowashyourhan .bp1-span4 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtowashyourhan .bp1-span5 {
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtowashyourhan .bp1-span6 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-thepatientshouldu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6399px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-masksshouldnotbe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6702px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a1wearamaskandp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7442px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a1wearamaskandp .bp1-span1 {
+  
+}
+.bp1-index .bp1-a1wearamaskandp .bp1-span2 {
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-a1wearamaskandp .bp1-span3 {
+  
+}
+.bp1-index .bp1-a1wearamaskandp .bp1-span4 {
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-a1wearamaskandp .bp1-span5 {
+  
+}
+.bp1-index .bp1-howtocleanutensil {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8080px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtocleanutensil .bp1-span1 {
+  
+}
+.bp1-index .bp1-howtocleanutensil .bp1-span2 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-howtocleanutensil .bp1-span3 {
+  
+}
+.bp1-index .bp1-howtocleanutensil .bp1-span4 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-howtowashclothes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8576px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtowashclothes .bp1-span1 {
+  
+}
+.bp1-index .bp1-howtowashclothes .bp1-span2 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-howtowashclothes .bp1-span3 {
+  
+}
+.bp1-index .bp1-howtowashclothes .bp1-span4 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+}
+.bp1-index .bp1-howtowashclothes .bp1-span5 {
+  
+}
+.bp1-index .bp1-restasmuchasposs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9176px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-takeplentyoffluid {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9458px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-ifpatienthaspersi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9959px;
+  height              : auto;
+  width               : 717px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-ifapatienthasaf {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9728px;
+  height              : auto;
+  width               : 737px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a071 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3682px;
+  height              : 233px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 419px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a07 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4182px;
+  height              : 179px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 406px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a09 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4808px;
+  height              : 258px;
+  width               : 732px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6479px;
+  height              : 211px;
+  width               : 762px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7027px;
+  height              : 403px;
+  width               : 783px;
+  position            : absolute;
+  margin              : 0;
+  left                : 391px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7857px;
+  height              : 211px;
+  width               : 735px;
+  position            : absolute;
+  margin              : 0;
+  left                : 416px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8403px;
+  height              : 161px;
+  width               : 758px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8981px;
+  height              : 195px;
+  width               : 762px;
+  position            : absolute;
+  margin              : 0;
+  left                : 402px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a151 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9251px;
+  height              : 195px;
+  width               : 761px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a152 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9533px;
+  height              : 211px;
+  width               : 762px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a161 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9820px;
+  height              : 127px;
+  width               : 730px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a162 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10022px;
+  height              : 120px;
+  width               : 724px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-ifpatientu2019sthroat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10154px;
+  height              : auto;
+  width               : 715px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-ifpatientu2019stempera {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10381px;
+  height              : auto;
+  width               : 715px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a163 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10246px;
+  height              : 123px;
+  width               : 724px;
+  position            : absolute;
+  margin              : 0;
+  left                : 409px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a163 .bp1-a1631 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 724px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-ifpatientfeelsnau {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10563px;
+  height              : auto;
+  width               : 715px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-howtoidentifyiti {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10655px;
+  height              : auto;
+  width               : 715px;
+  position            : absolute;
+  margin              : 0;
+  left                : 412px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-thisoutbreakofcov {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11526px;
+  height              : auto;
+  width               : 715px;
+  position            : absolute;
+  margin              : 0;
+  left                : 399px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-youcandiscontinue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12220px;
+  height              : auto;
+  width               : 717px;
+  position            : absolute;
+  margin              : 0;
+  left                : 399px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12576px;
+  height              : 467px;
+  width               : 684px;
+  position            : absolute;
+  margin              : 0;
+  left                : 448px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-twoormoretemperat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10888px;
+  height              : auto;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 418px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-increasingdifficult {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11154px;
+  height              : auto;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 412px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a171 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10960px;
+  height              : 178px;
+  width               : 713px;
+  position            : absolute;
+  margin              : 0;
+  left                : 399px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a172 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10707px;
+  height              : 169px;
+  width               : 703px;
+  position            : absolute;
+  margin              : 0;
+  left                : 409px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10437px;
+  height              : 114px;
+  width               : 727px;
+  position            : absolute;
+  margin              : 0;
+  left                : 409px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a16 .bp1-a164 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 114px;
+  width               : 727px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-whattodoforother {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9784px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 661px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-worseningofsymptom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10619px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 689px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11210px;
+  height              : 169px;
+  width               : 752px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-bloodysputumorinc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10888px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 807px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-stiffneckpreventin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11154px;
+  height              : auto;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 807px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-patientsbreathsper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11391px;
+  height              : auto;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 412px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-takebreaksfromwat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11788px;
+  height              : auto;
+  width               : 314px;
+  position            : absolute;
+  margin              : 0;
+  left                : 406px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-maketimetounwind {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12065px;
+  height              : auto;
+  width               : 314px;
+  position            : absolute;
+  margin              : 0;
+  left                : 406px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-takecareofyourbo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11788px;
+  height              : auto;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 783px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-connectwithothers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12065px;
+  height              : auto;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 783px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-ifpulseoximeterp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11391px;
+  height              : auto;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 807px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-a18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11602px;
+  height              : 188px;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 406px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a182 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11613px;
+  height              : 168px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 775px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a182 .bp1-a1821 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 168px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a183 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11886px;
+  height              : 175px;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 771px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-a181 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11894px;
+  height              : 159px;
+  width               : 322px;
+  position            : absolute;
+  margin              : 0;
+  left                : 406px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp2-homecare {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 760px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-homecare .bp2-rectangle {
+  background-color    : rgba(144, 122, 114, 1.0);
+  top                 : 570px;
+  height              : 41px;
+  width               : 219px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-homecare .bp2-rectanglecopy {
+  background-color    : rgba(144, 122, 114, 1.0);
+  top                 : 619px;
+  height              : 41px;
+  width               : 219px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-homecare .bp2-learnhowtohomecar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 533px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp2-homecare .bp2-englishversion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 582px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp2-homecare .bp2-marathiversion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 631px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp2-homecare .bp2-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 722px;
+  height              : 27px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-homecare .bp2-groupcopy .bp2-a2020covidhomecare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 8.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 9.0px;
+}
+.bp2-homecare .bp2-groupcopy .bp2-contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : fixed;
+  margin              : 0;
+  left                : 27px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 11.0px;
+}
+.bp2-homecare .bp2-groupcopy .bp2-bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-homecare .bp2-homecareforcovid1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp2-homecare .bp2-homecareguidemaybcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 129px;
+  height              : auto;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp2-homecare .bp2-whoqualifiesforhocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 329px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp2-homecare .bp2-homecareenablesyoucopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 369px;
+  height              : auto;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+@media screen and (max-width: 1439px) {
+  .bp2-homecare {
+    display             : block;
+  }
+  .bp1-index {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp2-homecare {
+    display             : none;
+  }
+  .bp1-index {
+    display             : block;
+  }
+}

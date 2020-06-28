@@ -1,0 +1,295 @@
+
+
+.whyhomecare {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 760px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.whyhomecare .whyhomecare1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(144, 122, 114, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.whyhomecare .homecareguidemaybcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 129px;
+  height              : auto;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.whyhomecare .rectanglecopy3 {
+  background-color    : rgba(144, 122, 114, 1.0);
+  top                 : 695px;
+  height              : 41px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 243px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.whyhomecare .nextcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 707px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(239, 232, 222, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.whyhomecare .itissaferahospit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 335px;
+  height              : auto;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 14.0px;
+}
+.whyhomecare .itissaferahospit .span1 {
+  line-height         : 18.0px;
+}
+.whyhomecare .itissaferahospit .span2 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  line-height         : 16.0px;
+}
+.whyhomecare .itissaferahospit .span3 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 23.0px;
+}
+.whyhomecare .itgivesquickeracc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 430px;
+  height              : auto;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 14.0px;
+}
+.whyhomecare .itgivesquickeracc .span1 {
+  line-height         : 18.0px;
+}
+.whyhomecare .itgivesquickeracc .span2 {
+  font-size           : 14.0px;
+  line-height         : 16.0px;
+}
+.whyhomecare .itgivesquickeracc .span3 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  line-height         : 16.0px;
+}
+.whyhomecare .itistherightthin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 546px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "TimesNewRomanPS-BoldMT", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.85);
+  text-align          : center;
+  line-height         : 14.0px;
+}
+.whyhomecare .itistherightthin .span1 {
+  line-height         : 18.0px;
+}
+.whyhomecare .itistherightthin .span2 {
+  font-size           : 14.0px;
+  line-height         : 16.0px;
+}
+.whyhomecare .itistherightthin .span3 {
+  font-family         : "TimesNewRomanPSMT", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
